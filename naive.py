@@ -10,7 +10,7 @@ pathNeg = "IMDB/neg/"
 pathPos = "IMDB/pos/"
  
 BEGIN = 0
-END = 200
+END = 9
  
 def readDataSet(classification):
     lst = list()

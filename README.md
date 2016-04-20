@@ -1,2 +1,2 @@
 # NaiveBayes
-Machine Learning with a NaiveBayes classificator.
+Machine Learning with a Naive Bayes classificator.
